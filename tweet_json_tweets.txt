@@ -1,0 +1,2320 @@
+[
+    {
+        "created_at": "Mon Nov 02 13:45:04 +0000 2020",
+        "id": 1323259836017053699,
+        "id_str": "1323259836017053699",
+        "text": "The 'dose' of coronavirus a person gets may determine how sick they get: https://t.co/HFuEEcD8B9 https://t.co/MaQaML25hg",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/HFuEEcD8B9",
+                    "expanded_url": "https://cnn.it/3oP0oSz",
+                    "display_url": "cnn.it/3oP0oSz",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1323259834490343426,
+                    "id_str": "1323259834490343426",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/El0pzvxW0AIm0Xh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/El0pzvxW0AIm0Xh.jpg",
+                    "url": "https://t.co/MaQaML25hg",
+                    "display_url": "pic.twitter.com/MaQaML25hg",
+                    "expanded_url": "https://twitter.com/CNN/status/1323259836017053699/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1100,
+                            "h": 619,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1100,
+                            "h": 619,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1323259834490343426,
+                    "id_str": "1323259834490343426",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/El0pzvxW0AIm0Xh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/El0pzvxW0AIm0Xh.jpg",
+                    "url": "https://t.co/MaQaML25hg",
+                    "display_url": "pic.twitter.com/MaQaML25hg",
+                    "expanded_url": "https://twitter.com/CNN/status/1323259836017053699/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1100,
+                            "h": 619,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1100,
+                            "h": 619,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 135,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 13:30:04 +0000 2020",
+        "id": 1323256062389215233,
+        "id_str": "1323256062389215233",
+        "text": "\ud83d\udce9 Sign up to get the facts on coronavirus delivered to your inbox daily: https://t.co/ooWY0y1LSP \n\nHere's everythin\u2026 https://t.co/kkrqrMPlFq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ooWY0y1LSP",
+                    "expanded_url": "https://cnn.it/2HMw1M7",
+                    "display_url": "cnn.it/2HMw1M7",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                },
+                {
+                    "url": "https://t.co/kkrqrMPlFq",
+                    "expanded_url": "https://twitter.com/i/web/status/1323256062389215233",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 85,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 13:15:07 +0000 2020",
+        "id": 1323252300643794944,
+        "id_str": "1323252300643794944",
+        "text": "The road to the White House hasn\u2019t been easy. Who will win this historic race? Election Night in America on CNN. Sp\u2026 https://t.co/StTt5jMOpd",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/StTt5jMOpd",
+                    "expanded_url": "https://twitter.com/i/web/status/1323252300643794944",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 48,
+        "favorite_count": 284,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 13:00:15 +0000 2020",
+        "id": 1323248556862562305,
+        "id_str": "1323248556862562305",
+        "text": "President Donald Trump suggested to a Florida crowd he may fire Dr. Anthony Fauci, the nation's leading expert on i\u2026 https://t.co/1tPd4iddwS",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1tPd4iddwS",
+                    "expanded_url": "https://twitter.com/i/web/status/1323248556862562305",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 144,
+        "favorite_count": 777,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 12:45:05 +0000 2020",
+        "id": 1323244738963771392,
+        "id_str": "1323244738963771392",
+        "text": "A South Korean man admitted in court that he murdered 14 women and girls three decades ago in one of the country's\u2026 https://t.co/NP9iAK0EWC",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/NP9iAK0EWC",
+                    "expanded_url": "https://twitter.com/i/web/status/1323244738963771392",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 205,
+        "favorite_count": 813,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 12:30:07 +0000 2020",
+        "id": 1323240972076130304,
+        "id_str": "1323240972076130304",
+        "text": "Actor Eddie Hassell, who was best known for his roles in \"Surface\" and \"Devious Maids,\" was killed early Sunday in\u2026 https://t.co/cNRgGceyqD",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cNRgGceyqD",
+                    "expanded_url": "https://twitter.com/i/web/status/1323240972076130304",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62,
+        "favorite_count": 219,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 12:15:04 +0000 2020",
+        "id": 1323237188356767744,
+        "id_str": "1323237188356767744",
+        "text": "The fall surge has left nearly 50,000 people hospitalized across the US due to Covid-19, and experts say the strain\u2026 https://t.co/OBR2kZZyMl",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OBR2kZZyMl",
+                    "expanded_url": "https://twitter.com/i/web/status/1323237188356767744",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 117,
+        "favorite_count": 371,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 12:00:05 +0000 2020",
+        "id": 1323233416809242626,
+        "id_str": "1323233416809242626",
+        "text": "Australia registered no new local Covid-19 cases on Saturday for the first time since June 9, marking a major miles\u2026 https://t.co/cJ8EP2ti4l",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cJ8EP2ti4l",
+                    "expanded_url": "https://twitter.com/i/web/status/1323233416809242626",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 139,
+        "favorite_count": 1195,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 11:42:07 +0000 2020",
+        "id": 1323228893067812864,
+        "id_str": "1323228893067812864",
+        "text": "What the next US president does or doesn't do over the next four years will have a profound impact on the whether t\u2026 https://t.co/uQAzDYhhO6",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uQAzDYhhO6",
+                    "expanded_url": "https://twitter.com/i/web/status/1323228893067812864",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 174,
+        "favorite_count": 813,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 11:30:08 +0000 2020",
+        "id": 1323225879108112385,
+        "id_str": "1323225879108112385",
+        "text": "Robert Fisk, the veteran Middle East correspondent, has died at the age of 74, according to his employer, The Indep\u2026 https://t.co/5vgvbP4HCR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5vgvbP4HCR",
+                    "expanded_url": "https://twitter.com/i/web/status/1323225879108112385",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 358,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 11:15:07 +0000 2020",
+        "id": 1323222098685448193,
+        "id_str": "1323222098685448193",
+        "text": "Johnny Depp has lost his highly publicized libel case against the publisher of Britain's The Sun newspaper, whose c\u2026 https://t.co/5CRyKu6Tln",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5CRyKu6Tln",
+                    "expanded_url": "https://twitter.com/i/web/status/1323222098685448193",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 83,
+        "favorite_count": 540,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 11:00:07 +0000 2020",
+        "id": 1323218325934120960,
+        "id_str": "1323218325934120960",
+        "text": "Tuesday's moment of destiny -- and what could turn into a prolonged count owing to the crush of mail-in votes -- wi\u2026 https://t.co/4hGlHAdMoX",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4hGlHAdMoX",
+                    "expanded_url": "https://twitter.com/i/web/status/1323218325934120960",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 303,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 10:50:05 +0000 2020",
+        "id": 1323215797980958720,
+        "id_str": "1323215797980958720",
+        "text": "Hurricane Eta is expected to rapidly intensify over the next 18 hours as it churns in the Caribbean Sea toward Nica\u2026 https://t.co/wvnIskKemc",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wvnIskKemc",
+                    "expanded_url": "https://twitter.com/i/web/status/1323215797980958720",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 80,
+        "favorite_count": 238,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 10:45:06 +0000 2020",
+        "id": 1323214544286732288,
+        "id_str": "1323214544286732288",
+        "text": "Pennsylvania Gov. Tom Wolf will urge residents to be patient for their state's election results in a new advertisem\u2026 https://t.co/reEHM6jwmV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/reEHM6jwmV",
+                    "expanded_url": "https://twitter.com/i/web/status/1323214544286732288",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 92,
+        "favorite_count": 659,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 10:29:07 +0000 2020",
+        "id": 1323210521374527491,
+        "id_str": "1323210521374527491",
+        "text": "Presidential candidates always hype the coming election as the most important in our lifetimes. This time it might\u2026 https://t.co/vXVyQPsHr2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vXVyQPsHr2",
+                    "expanded_url": "https://twitter.com/i/web/status/1323210521374527491",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 96,
+        "favorite_count": 718,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 10:15:06 +0000 2020",
+        "id": 1323206994107445250,
+        "id_str": "1323206994107445250",
+        "text": "Four years of Trump has made the world less safe, and the damage might be irreversible | Analysis by @lukemcgee\u2026 https://t.co/HMO5URBYTs",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lukemcgee",
+                    "name": "Luke McGee",
+                    "id": 29771447,
+                    "id_str": "29771447",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/HMO5URBYTs",
+                    "expanded_url": "https://twitter.com/i/web/status/1323206994107445250",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 361,
+        "favorite_count": 2028,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 10:00:14 +0000 2020",
+        "id": 1323203255434956800,
+        "id_str": "1323203255434956800",
+        "text": "The global death toll from the novel coronavirus surpassed 1.2 million on Monday, according to Johns Hopkins Univer\u2026 https://t.co/dqisv8soeS",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dqisv8soeS",
+                    "expanded_url": "https://twitter.com/i/web/status/1323203255434956800",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 103,
+        "favorite_count": 278,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 09:46:58 +0000 2020",
+        "id": 1323199914533412865,
+        "id_str": "1323199914533412865",
+        "text": "Federal authorities are expected to put back into place a \"non-scalable\" fence around the entire perimeter of the W\u2026 https://t.co/EIT7nTcrmZ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/EIT7nTcrmZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1323199914533412865",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 327,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 09:30:09 +0000 2020",
+        "id": 1323195685609607174,
+        "id_str": "1323195685609607174",
+        "text": "A false and deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what\u2026 https://t.co/Nt7g6TnKsV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Nt7g6TnKsV",
+                    "expanded_url": "https://twitter.com/i/web/status/1323195685609607174",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 832,
+        "favorite_count": 2195,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 02 09:12:01 +0000 2020",
+        "id": 1323191122328457216,
+        "id_str": "1323191122328457216",
+        "text": "What the next US president does or doesn't do over the next four years will have a profound impact on the whether t\u2026 https://t.co/1imRhH2EBl",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1imRhH2EBl",
+                    "expanded_url": "https://twitter.com/i/web/status/1323191122328457216",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 759251,
+            "id_str": "759251",
+            "name": "CNN",
+            "screen_name": "CNN",
+            "location": "",
+            "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+            "url": "http://t.co/IaghNW8Xm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IaghNW8Xm2",
+                            "expanded_url": "http://www.cnn.com",
+                            "display_url": "cnn.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCHG9M367J",
+                            "expanded_url": "http://cnn.com/apps",
+                            "display_url": "cnn.com/apps",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 50348720,
+            "friends_count": 1105,
+            "listed_count": 142550,
+            "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 323105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1600794333",
+            "profile_link_color": "004287",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 239,
+        "favorite_count": 976,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
